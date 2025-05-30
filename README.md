@@ -4,7 +4,7 @@
 This project demonstrates training a Decision Tree model on the Iris dataset and saving it for deployment, including usage in a custom container for serving predictions (e.g., on Google Cloud Vertex AI).
 
 ## Project Structure
-
+'''
 .
 ├── data/
 │   └── iris.csv                  # Input dataset
@@ -13,7 +13,7 @@ This project demonstrates training a Decision Tree model on the Iris dataset and
 ├── train.py                      # Script to train and serialize model
 ├── SDK\_Custom\_Container\_Prediction.ipynb  # Notebook for prediction using custom container
 └── README.md                     # Project documentation
-
+'''
 
 ## Dataset
 
